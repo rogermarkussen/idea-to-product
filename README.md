@@ -2,6 +2,22 @@
 
 A starter kit for transforming raw ideas into production-ready code using AI-assisted development with Claude Code.
 
+## The Ralph Wiggum Loop
+
+<img src="https://upload.wikimedia.org/wikipedia/en/1/1f/Ralph_Wiggum.png" alt="Ralph Wiggum" width="150" align="right" />
+
+This project uses the **Ralph Wiggum Loop** technique for autonomous AI development - named after the Simpsons character who famously says *"I'm helping!"*
+
+The philosophy: Start with human oversight (HITL), let the AI make predictable mistakes, learn from them via persistent memory, and gradually transition to autonomous operation.
+
+> "Deterministically bad" - Errors are predictable and informative. Use them to tune prompts.
+
+**Key principles:**
+- Fresh context per iteration (no context window bloat)
+- State persisted in files and git (not AI memory)
+- Verification via tests and linting (not trust)
+- HITL early, autonomous later
+
 ## What This Does
 
 This repository provides a structured workflow that takes you from a rough idea to an autonomous development loop:
