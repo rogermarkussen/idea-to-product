@@ -4,7 +4,7 @@ A starter kit for transforming raw ideas into production-ready code using AI-ass
 
 ## The Ralph Wiggum Loop
 
-<img src="assets/ralph-wiggum.webp" alt="Ralph Wiggum" width="150" align="right" />
+<img src="assets/ralph-wiggum.jpg" alt="Ralph Wiggum" width="150" align="right" />
 
 This project uses the **Ralph Wiggum Loop** technique for autonomous AI development - named after the Simpsons character who famously says *"I'm helping!"*
 
