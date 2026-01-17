@@ -1,0 +1,10 @@
+# Generated project folder (created by /project:start)
+project/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
